@@ -17,7 +17,7 @@ lang: zh-CN
 title: 曾子毅的jekyll网站
 email:
 description: 曾子毅的jekyll网站，网页设计与制作课程的期末项目
-baseurl: "zengziyi/" # the optional subpath of your site, e.g. "/blog"
+baseurl: "/zengziyi" # the optional subpath of your site, e.g. "/blog"
 url: "https://zeng-ziyi.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "曾子毅"
