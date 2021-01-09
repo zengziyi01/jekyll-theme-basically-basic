@@ -1,8 +1,8 @@
 ---
-title: svg笔记
+title: SVG笔记
 layout: category
-permalink: /categories/svg笔记/
-taxonomy: svg笔记
+permalink: /categories/SVG笔记/
+taxonomy: SVG笔记
 image: assets/images/svg笔记banner图.png
 ---
 
