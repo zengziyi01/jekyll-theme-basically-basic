@@ -40,5 +40,3 @@ categories:
 - 如果是一个全新又充满朝气的品牌，那就颜色浅点儿，亮点儿的蓝色。
 - 如果是为公司或严肃的品牌进行设计，那就选下面几排的深蓝色。
 
-
-![基色的选择](https://upload-images.jianshu.io/upload_images/1431805-d05fa1054b221fa8.png?imageMogr2/auto-orient/strip|imageView2/2/w/840/format/webp)
