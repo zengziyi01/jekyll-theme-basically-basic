@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: 曾子毅的jekyll网站
+title: Zeng.z.y's Personal Website
 email:
 description: 曾子毅的jekyll网站，网页设计与制作课程的期末项目
 baseurl: "/zengziyi" # the optional subpath of your site, e.g. "/blog"
