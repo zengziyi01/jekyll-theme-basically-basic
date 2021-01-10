@@ -1,7 +1,7 @@
 ---
 title: "关于我"
 layout: about
-image: assets/images/学习笔记banner图.png
+image: assets/images/about.png
 ---
 # 曾子毅
 ## 网络与新媒体专业学生
