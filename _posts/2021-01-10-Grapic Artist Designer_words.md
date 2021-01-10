@@ -21,7 +21,7 @@ categories:
 - 柔和的阴影可以营造对比和渲染氛围
 - 硬朗的阴影可以给客户带来复古的感觉
 
-![阴影](/zengziyi/assets/images/阴影.jpeg)
+![阴影](/zengziyi/assets/images/阴影.jpg)
 
 ### 3.可以使用流行的双重曝光效果
 
@@ -29,7 +29,7 @@ categories:
 - 双重曝光效果可以使画面看起来有趣
 - 能够带给客户惊艳感
 
-![双重曝光](/zengziyi/assets/images/双重曝光.jpg)
+![双重曝光](/zengziyi/assets/images/双重曝光.png)
 
 ### 4.可以引入更多的元素增加层次感
 
@@ -45,4 +45,4 @@ categories:
 - 能增强文本的质感，营造独特的氛围
 - 对细节的处理有一定的要求
 
-![纹理](/zengziyi/assets/images/纹理.jpeg)
+![纹理](/zengziyi/assets/images/纹理.jpg)
