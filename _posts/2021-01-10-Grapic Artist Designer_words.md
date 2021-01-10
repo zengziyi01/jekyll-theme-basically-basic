@@ -13,7 +13,7 @@ categories:
 - 大量的色彩在字体上呈现将增加字体的视觉吸引力
 - 注意：色彩的搭配需要协调且容易突出主题
 
-![多彩字体](/zengziyi/images/多彩字体.jpeg)
+![多彩字体](/zengziyi/assets/images/多彩字体.jpeg)
 
 ### 2.可以使用恰到好处的阴影效果
 
@@ -37,7 +37,7 @@ categories:
 - 使用别的元素代替部分文字，使画面主题鲜明
 - 对文字和图形或多媒体元素的融合度，匹配度要求很高
 
-![多元素](/zengziyi/assets/images/多元素.jpeg)
+![多元素](/zengziyi/assets/images/多元素.jpg)
 
 ### 5.可以使用纹理来增加复古感
 
