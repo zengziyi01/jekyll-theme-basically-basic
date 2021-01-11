@@ -38,7 +38,7 @@
         a {
             position: relative;
             color: white;
-            text-shadow: 5px 5px 15px #b5dfd2;
+            text-shadow: 5px 5px 15px #e6a5f3;
             &::before {
                 display: block;
                 position: absolute;
@@ -63,10 +63,10 @@
         width: 95%;
         height: 98%;
         padding: 1.5em;
-        background-color: #0a3233c2;
+        background-color: #1f0f5cc2;
         overflow-x: hidden;
         -webkit-box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
-        box-shadow: 0em 0em 2em #8ac0df;
+        box-shadow: 0em 0em 2em #bd97ee;
         border-radius: 50px;
         @include breakpoint($medium) {
             padding: 3rem;
