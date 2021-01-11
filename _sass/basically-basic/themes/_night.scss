@@ -2,11 +2,36 @@
    Night theme skin
    ========================================================================== */
 
+
 /* Colors */
-$base-color: #252a34 !default;
-$text-color: #eaeaea !default;
-$accent-color: #00adb5 !default;
-$background-color: #252a34 !default;
+
+$base-color: #000000 !default;
+$text-color: #f5f5f5 !default;
+$accent-color: #1c489d !default;
+$background-color: #000000 !default;
 $code-background-color: #fff !default;
 $border-color: rgba($text-color, 0.5) !default;
 $overlay-color: #fff !default;
+$serif: DFKai-SB,
+Kai,
+Kaiti SC,
+KaiTi,
+BiauKai,
+69774F53,
+69774F53_GB2312,
+Songti SC,
+Georgia,
+Times,
+serif !default;
+$sans-serif: "Helvetica Neue",
+YouYuan,
+5E7C5706,
+"Segoe UI",
+-apple-system,
+BlinkMacSystemFont,
+"Roboto",
+"Segoe UI",
+"Helvetica Neue",
+"Lucida Grande",
+Arial,
+sans-serif !default;
