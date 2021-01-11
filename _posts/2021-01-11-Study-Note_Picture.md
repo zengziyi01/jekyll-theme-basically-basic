@@ -1,5 +1,5 @@
 ---
-title: # 消失的图片！
+title:  消失的图片！
 excerpt_separator: "<!--more-->"
 categories:
      - 学习笔记
