@@ -37,8 +37,8 @@
         /* line hover effect */
         a {
             position: relative;
-            color: #7677b4;
-            text-shadow: 4px 4px 4px #90c3e6;
+            color: white;
+            text-shadow: 5px 5px 15px #b5dfd2;
             &::before {
                 display: block;
                 position: absolute;
@@ -60,13 +60,14 @@
         }
     }
     >.inner {
-        width: 100%;
-        height: 100%;
+        width: 95%;
+        height: 98%;
         padding: 1.5em;
-        background-color: $sidebar-background-color;
+        background-color: #1a1e36c2;
         overflow-x: hidden;
         -webkit-box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
-        box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
+        box-shadow: 0em 0em 2em #8ac0df;
+        border-radius: 50px;
         @include breakpoint($medium) {
             padding: 3rem;
         }
@@ -103,7 +104,7 @@
         }
         a {
             display: block;
-            color: $base-color;
+            color: white;
             text-decoration: none;
         }
     }
